@@ -1,4 +1,5 @@
-Operations & Delivery Performance Dashboard
+Markdown
+# Operations & Delivery Performance Dashboard
 
 📌 Project Overview
 This project analyzes logistics and shipment operations using PostgreSQL and Power BI. The dashboard tracks shipment volume, carrier delays, delivery performance, and shipping costs to identify operational inefficiencies and support business decision-making.
@@ -11,7 +12,8 @@ This project analyzes logistics and shipment operations using PostgreSQL and Pow
 - KPI Reporting
 - Data Visualization
 
-Dashboard Preview 
+## Dashboard Preview 
+![Dashboard Preview](Operations-dashboard.png)
 
 
 📊 Key KPIs
@@ -41,5 +43,16 @@ Tables Included:
 - warehouses
 - products_summary
 
+## SQL Analysis Performed
+
+- Carrier performance analysis
+- Warehouse effiency reporting
+- On-time delivery KPI calculations
+- Regional shipping cost analysis
+- Revenue by product category
+- Shipment status reporting
+
+- ## What I Learned
+  Through this project, I strengthened my understanding of SQL joins, KPI reporting, operational analytics, Power BI dashboard development, and translating logistics data into actionable business insights.
 
 
