@@ -13,7 +13,7 @@ This project analyzes logistics and shipment operations using PostgreSQL and Pow
 - Data Visualization
 
 ## Dashboard Preview 
-![Dashboard Preview](Operations-dashboard.png)
+![Dashboard Preview](operations-dashboard.png)
 
 
 📊 Key KPIs
