@@ -34,6 +34,7 @@ Dashboard Preview
 - Monitor carrier KPIs regularly to improve operational efficiency.
 
 🗄 Database Structure
+
 Tables Included:
 - shipments
 - carriers
