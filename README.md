@@ -11,6 +11,9 @@ This project analyzes logistics and shipment operations using PostgreSQL and Pow
 - KPI Reporting
 - Data Visualization
 
+Dashboard Preview 
+
+
 📊 Key KPIs
 - Total Shipments
 - On-Time Delivery Rate
@@ -36,3 +39,6 @@ Tables Included:
 - carriers
 - warehouses
 - products_summary
+
+
+
