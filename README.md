@@ -11,6 +11,10 @@ This project analyzes logistics and shipment operations using PostgreSQL and Pow
 - Data Modeling
 - KPI Reporting
 - Data Visualization
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
 
 ## Dashboard Preview 
 ![Dashboard Preview](operations-dashboard.png)
